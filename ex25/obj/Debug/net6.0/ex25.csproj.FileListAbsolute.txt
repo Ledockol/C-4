@@ -1,0 +1,15 @@
+C:\seminar4\C-4\ex25\bin\Debug\net6.0\ex25.exe
+C:\seminar4\C-4\ex25\bin\Debug\net6.0\ex25.deps.json
+C:\seminar4\C-4\ex25\bin\Debug\net6.0\ex25.runtimeconfig.json
+C:\seminar4\C-4\ex25\bin\Debug\net6.0\ex25.dll
+C:\seminar4\C-4\ex25\bin\Debug\net6.0\ex25.pdb
+C:\seminar4\C-4\ex25\obj\Debug\net6.0\ex25.csproj.AssemblyReference.cache
+C:\seminar4\C-4\ex25\obj\Debug\net6.0\ex25.GeneratedMSBuildEditorConfig.editorconfig
+C:\seminar4\C-4\ex25\obj\Debug\net6.0\ex25.AssemblyInfoInputs.cache
+C:\seminar4\C-4\ex25\obj\Debug\net6.0\ex25.AssemblyInfo.cs
+C:\seminar4\C-4\ex25\obj\Debug\net6.0\ex25.csproj.CoreCompileInputs.cache
+C:\seminar4\C-4\ex25\obj\Debug\net6.0\ex25.dll
+C:\seminar4\C-4\ex25\obj\Debug\net6.0\refint\ex25.dll
+C:\seminar4\C-4\ex25\obj\Debug\net6.0\ex25.pdb
+C:\seminar4\C-4\ex25\obj\Debug\net6.0\ex25.genruntimeconfig.cache
+C:\seminar4\C-4\ex25\obj\Debug\net6.0\ref\ex25.dll
