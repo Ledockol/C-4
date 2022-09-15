@@ -1,0 +1,15 @@
+C:\seminar4\C-4\ex27\bin\Debug\net6.0\ex27.exe
+C:\seminar4\C-4\ex27\bin\Debug\net6.0\ex27.deps.json
+C:\seminar4\C-4\ex27\bin\Debug\net6.0\ex27.runtimeconfig.json
+C:\seminar4\C-4\ex27\bin\Debug\net6.0\ex27.dll
+C:\seminar4\C-4\ex27\bin\Debug\net6.0\ex27.pdb
+C:\seminar4\C-4\ex27\obj\Debug\net6.0\ex27.csproj.AssemblyReference.cache
+C:\seminar4\C-4\ex27\obj\Debug\net6.0\ex27.GeneratedMSBuildEditorConfig.editorconfig
+C:\seminar4\C-4\ex27\obj\Debug\net6.0\ex27.AssemblyInfoInputs.cache
+C:\seminar4\C-4\ex27\obj\Debug\net6.0\ex27.AssemblyInfo.cs
+C:\seminar4\C-4\ex27\obj\Debug\net6.0\ex27.csproj.CoreCompileInputs.cache
+C:\seminar4\C-4\ex27\obj\Debug\net6.0\ex27.dll
+C:\seminar4\C-4\ex27\obj\Debug\net6.0\refint\ex27.dll
+C:\seminar4\C-4\ex27\obj\Debug\net6.0\ex27.pdb
+C:\seminar4\C-4\ex27\obj\Debug\net6.0\ex27.genruntimeconfig.cache
+C:\seminar4\C-4\ex27\obj\Debug\net6.0\ref\ex27.dll
